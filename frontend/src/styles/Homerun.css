@@ -1,0 +1,41 @@
+.homeruns-header {
+  background-color: #8bdb74;
+  border-left: 15px solid #0d7b34;
+  color: #032b16;
+  padding: 5px 5px;
+  text-align: start;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 1200;
+}
+
+.homeruns-table {
+  width: 90%;
+  border-collapse: collapse;
+  margin-left: 15px;
+}
+
+.homeruns-table th,
+.homeruns-table td {
+  border: 5px solid #03450b;
+  font-size: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+.homeruns-table th {
+  background-color: #0f7944;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 750;
+}
+
+.homeruns-table tr {
+  background-color: #75c67d;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.homeruns-table tr:hover {
+  background-color: #37ab41;
+}

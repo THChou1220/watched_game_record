@@ -1,0 +1,29 @@
+.home-table {
+  width: 90%;
+  border-collapse: collapse;
+  margin-left: 15px;
+}
+
+.home-table th,
+.home-table td {
+  border: 10px solid #021d68;
+  font-size: 20px;
+  padding: 10px 5px;
+  text-align: center;
+}
+
+.home-table th {
+  background-color: #15a1ed;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 750;
+}
+
+.home-table tr {
+  background-color: #8be3ed;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.home-table tr:hover {
+  background-color: #0ec2da;
+}
